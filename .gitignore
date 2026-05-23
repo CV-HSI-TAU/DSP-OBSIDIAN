@@ -1,1 +1,6 @@
-.obsidian
+# החרגת קבצי תצוגה מקומיים (גורמים לקונפליקטים קבועים)
+.obsidian/workspace.json
+.obsidian/graph.json
+
+# החרגת הגדרות ספציפיות למכשיר (כמו מיקום החלון או גודל הפונט המקומי)
+.obsidian/appearance.json
